@@ -1,0 +1,10 @@
+TODO: Settings: Volume Control
+TODO: Settings: Show/Hde Circle 1/Circle 2min
+TODO: Implement easy starting rules (Cardnumber etc.)
+TODO: Pause and Reset IconButton
+TODO: Song loaded with boolean ! isLoaded -> play pause - else load
+TODO: Starting Screen
+
+FIXME: Notifications not disapearing on disable - need reload of audio file
+FIXME: MetasImage not showing in notification
+FIXME: BottomnavigationBar ist not suited for landscape (or Timer is too big ..)
